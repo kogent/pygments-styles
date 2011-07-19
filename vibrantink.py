@@ -45,7 +45,6 @@ class VibrantinkStyle(Style):
         Generic.Subheading:         '#aaa',
         Generic.Traceback:          '#a00',
 
-
         Name.Attribute:             '#9C9',
         Name.Builtin:               '#FFF',
         Name.Builtin.Pseudo:        '#999',
@@ -57,10 +56,6 @@ class VibrantinkStyle(Style):
         Name.Namespace:             '#555',
         Name.Tag:                   '#F60',
         Name.Variable:              '#008080',
-        Name.Variable.Class:        '#008080',
-        Name.Variable.Global:       '#008080',
-        Name.Variable.Instance:     '#008080',
-        
 
         Whitespace:                 '#BBB',
         
